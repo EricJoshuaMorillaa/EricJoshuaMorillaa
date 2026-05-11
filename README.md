@@ -1,16 +1,19 @@
-## Hi there 👋
+Neu Library System
 
-<!--
-**EricJoshuaMorillaa/EricJoshuaMorillaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://ericjoshuamorilla.github.io/EricJoshua/
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Certificates:
+
+NoSQL and DBaaS 101
+https://courses.cognitiveclass.ai/certificates/58a8f1ec37884647bc88dc0a6d473b59
+
+Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate:
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=2DF1ED1BBD49D2BF7D0AAAAA6C038CB5E8FD3AB33653946126CCB1C6DDCA1499
+
+
+Oracle Data Platform 2025 Certified Foundations Associate:
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=2CDF92E16017A250AF5E38C2D6530733C3FA1A78F09D6D7912CCF5EF6C5E1586
+
+Oracle Cloud Infrastructure 2025 Certified Foundations Associate:
+https://catalog-education.oracle.com/pls/certview/sharebadge?id=359EAAA93FECD8E0A1CD0F99FA92CF687236310884163BA39B998B91D7E5DA67
