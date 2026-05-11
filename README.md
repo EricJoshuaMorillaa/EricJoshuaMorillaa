@@ -5,6 +5,7 @@ I am Eric Joshua Morilla, with a flair for coding and database management skills
 🎓 Education
 
 Degree Institution Period BS Information Technology New Era University
+
 2024 – Present
 
 🏅 Certifications
