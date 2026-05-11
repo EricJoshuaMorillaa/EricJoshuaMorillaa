@@ -30,4 +30,5 @@ Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 You may reach me at:
 
 LinkedIn: https://www.linkedin.com/in/eric-joshua-morilla-04633940a
+
 Email: ericmorilla14@gmail.com
