@@ -26,8 +26,11 @@ Neu Library System
 https://ericjoshuamorilla.github.io/EricJoshua/
 
 Skill sets:
+
 Programming :  Java, Javascript
+
 Databases: IBM DB2 Cloud
+
 Tools:  Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 You may reach me at:
