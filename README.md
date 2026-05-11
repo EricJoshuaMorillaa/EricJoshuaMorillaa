@@ -10,7 +10,7 @@ Degree Institution Period BS Information Technology New Era University
 
 🏅 Certifications
 
-NoSQL and DBaaS 101
+NoSQL and DBaaS 101:
 
 https://courses.cognitiveclass.ai/certificates/58a8f1ec37884647bc88dc0a6d473b59
 
