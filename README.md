@@ -22,6 +22,8 @@ https://catalog-education.oracle.com/pls/certview/sharebadge?id=2CDF92E16017A250
 Oracle Cloud Infrastructure 2025 Certified Foundations Associate:
 https://catalog-education.oracle.com/pls/certview/sharebadge?id=359EAAA93FECD8E0A1CD0F99FA92CF687236310884163BA39B998B91D7E5DA67
 
+💻Website
+
 Neu Library System
 https://ericjoshuamorilla.github.io/EricJoshua/
 
